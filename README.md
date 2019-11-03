@@ -1,5 +1,5 @@
-#Red hat EX407 Preparation
-##Exam Objectives
+# Red hat EX407 Preparation
+## Exam Objectives
 * Understand core components of Ansible
 * Install and configure an Ansible control node
 * Configure Ansible managed nodes
